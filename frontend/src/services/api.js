@@ -1,5 +1,5 @@
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
-const REQUEST_TIMEOUT = 35000;
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5001';
+const REQUEST_TIMEOUT = 100000;
 
 const isText = (value) => typeof value === 'string' && value.trim().length > 0;
 
