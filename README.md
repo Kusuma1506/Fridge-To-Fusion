@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍳 FridgeFusion
+# 🍳 FridgeTORecipe
 
 ### *Turn Your Fridge Into Delicious Recipes*
 
