@@ -12,9 +12,6 @@
 
 **FridgeFusion** is an AI-powered recipe generator that transforms your available kitchen ingredients into complete, chef-quality recipes — with step-by-step instructions, nutritional info, and beautiful presentation.
 
-[🚀 Live Demo](#deployment) · [📖 Documentation](#how-it-works) · [🐛 Report Bug](https://github.com/officialankit18/Fridge-to-Fusion/issues)
-
----
 
 </div>
 
@@ -203,11 +200,7 @@ Gemini generates the recipe title, description, ingredients, cooking steps, swap
 - Gemini availability, model limits, rate limits, and network conditions can affect generation.
 - Food photography is selected from a small curated set and may not exactly match each generated recipe.
 
-## TIME SPENT
 
-Development: [fill in actual time]
-
----
 
 ## 🌐 Deployment
 
@@ -254,13 +247,11 @@ Client Layer          Server Layer           AI Layer
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
----
 
 <div align="center">
 
-**Built with ❤️ by [Ankit Yadav](https://github.com/officialankit18)**
+
 
 *Turn your fridge into a recipe book* 🍽️
 
