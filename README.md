@@ -245,14 +245,12 @@ Client Layer          Server Layer           AI Layer
 
 ---
 
-## 📄 License
-
 
 
 <div align="center">
 
 
-
+Done by Kusuma... 
 *Turn your fridge into a recipe book* 🍽️
 
 </div>
