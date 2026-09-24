@@ -1,0 +1,1 @@
+export default function ErrorState({ message, onRetry }) { return <section className="state-card error" role="alert"><span className="state-icon">!</span><h2>Recipe generation paused</h2><p>{message}</p><button className="retry-button" onClick={onRetry}>Try again</button></section>; }
